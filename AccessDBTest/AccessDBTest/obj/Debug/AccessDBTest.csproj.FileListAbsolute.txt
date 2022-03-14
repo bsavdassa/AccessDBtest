@@ -1,0 +1,10 @@
+c:\users\lab\documents\visual studio 2013\Projects\AccessDBTest\AccessDBTest\bin\Debug\AccessDBTest.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\AccessDBTest\AccessDBTest\bin\Debug\AccessDBTest.exe
+c:\users\lab\documents\visual studio 2013\Projects\AccessDBTest\AccessDBTest\bin\Debug\AccessDBTest.pdb
+c:\users\lab\documents\visual studio 2013\Projects\AccessDBTest\AccessDBTest\obj\Debug\AccessDBTest.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\AccessDBTest\AccessDBTest\obj\Debug\AccessDBTest.Form1.resources
+c:\users\lab\documents\visual studio 2013\Projects\AccessDBTest\AccessDBTest\obj\Debug\AccessDBTest.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\AccessDBTest\AccessDBTest\obj\Debug\AccessDBTest.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\AccessDBTest\AccessDBTest\obj\Debug\AccessDBTest.exe
+c:\users\lab\documents\visual studio 2013\Projects\AccessDBTest\AccessDBTest\obj\Debug\AccessDBTest.pdb
+c:\users\lab\documents\visual studio 2013\Projects\AccessDBTest\AccessDBTest\obj\Debug\AccessDBTest.Form2.resources
